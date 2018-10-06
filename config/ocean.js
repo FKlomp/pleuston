@@ -3,10 +3,10 @@ module.exports = {
     // Setup with local services
     // -----
     keeperScheme: 'http',
-    keeperHost: 'localhost',
+    keeperHost: '35.204.120.235',
     keeperPort: 8545,
 
     providerScheme: 'http',
-    providerHost: 'localhost',
+    providerHost: '35.204.120.235',
     providerPort: 5000
 }
